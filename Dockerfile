@@ -11,3 +11,8 @@ WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 EXPOSE 8080
 CMD ["java", "-jar", "app.jar"]
+
+
+FROM mysql/mysql-server:8.0.24
+
+COPY config/user.cnf /etc/mysql/my.cnf
