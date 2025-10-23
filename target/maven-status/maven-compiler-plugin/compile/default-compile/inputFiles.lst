@@ -1,0 +1,9 @@
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/DemoApplication.java
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/JwtUtil.java
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/SecurityConfig.java
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/controller/AuthController.java
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/controller/TaskController.java
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/model/Task.java
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/model/User.java
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/repository/TaskRepository.java
+/home/prasad/Desktop/pratice-kc/backend/src/main/java/com/example/demo/repository/UserRepository.java
